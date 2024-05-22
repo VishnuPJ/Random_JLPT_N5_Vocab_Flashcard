@@ -1,5 +1,6 @@
 # Random_JLPT_N5_Vocab_Flashcards
 A simple Python Flashcard application to generate random Japanese N5 vocabulary words.
+ - Can show the Kanji.
  - Can show/hide the meaning and romaji.
  - Option to randomize the words.
 
