@@ -14,4 +14,4 @@ There are two UI implementations,
  - Can show/hide the meaning and romaji.
  - Option to randomize the words.
 
-<img src="Assets/flashcard_kivy.png" alt="JLPT N5 VOCAB Image kivy" width="300" height="auto">
+<img src="Assets/flashcard_kivy.png" alt="JLPT N5 VOCAB Image kivy" width="500" height="auto">
